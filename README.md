@@ -1,8 +1,3 @@
-# React + Vite
+This is simple Card maker thets runs on react, you make cards cange size color text and then get PNG of it
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot from 2025-01-21 14-40-37](https://github.com/user-attachments/assets/3b759f8d-db53-4892-84ce-a5f8bc08b7de)
